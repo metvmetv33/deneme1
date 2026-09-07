@@ -19,7 +19,7 @@ print(f"🎨 Logo: {LOGO_URL}")
 print(f"🔑 Stream Key: {STREAM_KEY}")
 print(f"📡 RTMP: {rtmp_server}")
 print(f"🌐 İzleme: https://ssh101.com/live/{STREAM_KEY}")
-print(f"📱 HLS: https://lbgo.bozztv.com/ssh101/ssh101/{STREAM_KEY}/playlist.m3u8")
+print(f"📱 HLS: https://metv.bozztv.com/ssh101/ssh101/{STREAM_KEY}/playlist.m3u8")
 print("=" * 50)
 
 # FFmpeg komutu - 1080p 25 FPS & 3500 kbps Bitrate (KMPS)
